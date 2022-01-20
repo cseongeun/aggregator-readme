@@ -47,11 +47,11 @@ $ cp .env.example .env
 
 $ npm i
 
-$ npm run migration:generate init
+$ npm run migration:generate init // 마이그레이션 생성
 
-$ npm run migration:run
+$ npm run migration:run  // 마이그레이션 진행
 
-$ npm run seed:run
+$ npm run seed:run   // 초기 시드 삽입
 ```
 
 - 어그리게이터 작업 실행
@@ -60,6 +60,22 @@ $ npm run seed:run
 $ git clone [aggregator-task]
 
 $ cd aggregator-task
+
+$ cp .env.example .env
+
+********* .env 데이터 삽입 *******
+
+$ npm i
+
+$ npm run start
+```
+
+- 어그리게이터 스트림 작업 실행
+
+```bash
+$ git clone [aggregator-task-stream]
+
+$ cd aggregator-task-stream
 
 $ cp .env.example .env
 
