@@ -10,18 +10,16 @@
 
 ## Common Package
 
----
-
 | 패키지 명                    |           description            |                         repository | version                                                                                        |
 | :--------------------------- | :------------------------------: | ---------------------------------: | ---------------------------------------------------------------------------------------------- |
 |                              |
-| **Aggregator Logger**        |          로깅 관련 모듈          |        cseongeun/aggregator-logger | ![Aggregator Logger](https://img.shields.io/badge/aggregator_logger-0.0.22-blue)               |
+| **Aggregator-Logger**        |          로깅 관련 모듈          |        cseongeun/aggregator-logger | ![Aggregator Logger](https://img.shields.io/badge/aggregator_logger-0.0.22-blue)               |
 |                              |
-| **Aggregator Util**          |             유틸리티             |          cseongeun/aggregator-util | ![Aggregator Util](https://img.shields.io/badge/aggregator_util-1.0.30-blue)                   |
+| **Aggregator-Util**          |             유틸리티             |          cseongeun/aggregator-util | ![Aggregator Util](https://img.shields.io/badge/aggregator_util-1.0.30-blue)                   |
 |                              |
-| **Aggregator Base**          | 공통 엔티디, 레포지토리, 상수 등 |          cseongeun/aggregator-base | ![Aggregator Base](https://img.shields.io/badge/aggregator_base-0.0.67-blue)                   |
+| **Aggregator-Base**          | 공통 엔티디, 레포지토리, 상수 등 |          cseongeun/aggregator-base | ![Aggregator Base](https://img.shields.io/badge/aggregator_base-0.0.67-blue)                   |
 |                              |
-| **Aggregator Defi Protocol** |       디파이 프로토콜 모듈       | cseongeun/aggregator-defi-protocol | ![Aggregator Defi Protocol](https://img.shields.io/badge/aggregator_defi_protocol-0.0.37-blue) |
+| **Aggregator-Defi-Protocol** |       디파이 프로토콜 모듈       | cseongeun/aggregator-defi-protocol | ![Aggregator Defi Protocol](https://img.shields.io/badge/aggregator_defi_protocol-0.0.37-blue) |
 |                              |
 
 <br/><br/>
@@ -35,8 +33,6 @@
 <br/><br/>
 
 ## 어그리게이터 프로젝트 세팅
-
----
 
 - 어그리게이터 데이터 베이스 세팅
 
@@ -89,8 +85,6 @@ $ npm run start
 > > > > Task ex) farm, nft -->
 
 ## Aggregator Task Stream(어그리게이터 스트림 작업)
-
----
 
 ### 플로우
 
