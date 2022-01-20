@@ -13,7 +13,7 @@
 | 패키지 명                    |           description            |                         repository | version                                                                                        |
 | :--------------------------- | :------------------------------: | ---------------------------------: | ---------------------------------------------------------------------------------------------- |
 |                              |
-| **Aggregator-Logger**        |          로깅 관련 모듈          |        cseongeun/aggregator-logger | ![Aggregator Logger](https://img.shields.io/badge/aggregator_logger-0.0.22-blue)               |
+| **Aggregator-Common**        |     공통 모듈(로거, 레디스)      |        cseongeun/aggregator-common | ![Aggregator Common](https://img.shields.io/badge/aggregator_common-0.0.22-blue)               |
 |                              |
 | **Aggregator-Util**          |             유틸리티             |          cseongeun/aggregator-util | ![Aggregator Util](https://img.shields.io/badge/aggregator_util-1.0.30-blue)                   |
 |                              |
