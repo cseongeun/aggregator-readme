@@ -114,7 +114,8 @@ response:
   "positions":[],
   "farms":[
     {
-      "poolAddress":"0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9","lpAddress":"0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
+      "poolAddress":"0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
+      "lpAddress":"0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
       "balance":3.5216733307123467,
       "tokens":[
         {
