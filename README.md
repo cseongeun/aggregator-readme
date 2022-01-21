@@ -47,7 +47,7 @@
 
 ## 어그리게이터 프로젝트 세팅
 
-- 
+-
 
 - 어그리게이터 세팅
 
@@ -119,7 +119,7 @@ $ npm run start
 
 ### 플로우
 
-![Aggregator-Task-Stream-동작원리](images/Aggregator-Task-Stream.작동원리.png)
+![Aggregator-Task-Stream-동작원리](images/aggregator-task-stream.작동원리.png)
 
 `Interaction(인터렉션)?`
 
