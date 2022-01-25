@@ -136,3 +136,9 @@ $ npm run start
 `레디스 적용`
 
     **실시간 이벤트 처리**
+
+## Aggregator API(어그리게이터 API)
+
+### Farm 조회
+
+![Aggregator-Farm-request](images/farm.조회플로우.png)
