@@ -6,6 +6,12 @@
 
 어그리게이터 프로젝트
 
+## Precondition
+
+1. node v14+
+2. mysql
+3. redis
+
 <br/><br/>
 
 ## Aggreagator-Project
